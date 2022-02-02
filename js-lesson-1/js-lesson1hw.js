@@ -42,7 +42,10 @@ let person = (firstName + middleName + lastName)
 console.log(person)
 //- За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками.
 //     Вивести "Вітаю *Імя* *По батькові*. Тобі *вік* років".
-prompt('Greetings what is your name?', 'Greetings Daniel Eugene, your age 26')
+prompt('Greetings what is your name?', '')
+prompt('what is your 2 name?','')
+prompt('how old are you?','')
+alert('Hi '+firstName+middleName+age)
 //- За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
 //   let a = 100; let b = '100'; let c = true;
 let aa=100;
