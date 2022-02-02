@@ -1,16 +1,29 @@
 let hello=('hello ')
+// hello='bye'
 let owu=('owu ')
+//owu='apple'
 let com=('com ')
+//com='dot'
 let ua=('ua ')
+//ua='pl'
 let a=1
+//a=2
 let b=10
+//b=20
 let c=-999
+//c=9
 let d=123
+//d=222
 let e=3.14
+//e=14.3
 let f=2.7
+//f=7.2
 let g=16
+//g=39
 let h=true
+//h=yup
 let i=false
+//i=not
 console.log(hello,owu,com,ua,a,b,c,d,e,f,g,h,i)
 // alert(hello,owu,com,ua,a,b,c,d,e,f,g,h,i)
 document.write(hello,owu,com,ua)
