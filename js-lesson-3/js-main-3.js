@@ -138,32 +138,33 @@ let arr=[2,17,13,6,22,31,45,66,100,-18];
 //3.while,odd
 // let i=0;
 // while (i<arr.length){
-//     if (i %2!==0){
+//     if (arr[i] %2!==0){
 //         console.log(arr[i])
 //     }
 //     i++
 // }
 //4. for,odd
 // for (let i=0; i<arr.length; i++){
-//     if (i%2!==0){
+//     if (arr[i]%2!==0){
 //         console.log(arr[i])
 //     }
 // }
 //5.while.even
 // let i=0
 // while (i<arr.length){
-//     if (i%2 ===0){
+//     if (arr[i]%2 ===0){
 //         console.log(arr[i])
 //     }
 //     i++
 // }
-//6. for,even
+// 6. for,even
 // for (let i=0; i<arr.length; i++){
-//     if (i%2 === 0){
+//     if (arr[i]%2 === 0){
 //         console.log(arr[i])
 //     }
 // }
-//7.change - okten
+
+// 7.change - okten
 // for (i=0; i<arr.length; i++){
 //     if (i%3 ===0){
 //        arr[i]='okten'
