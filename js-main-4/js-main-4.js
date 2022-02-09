@@ -67,3 +67,29 @@
 // }
 // arrCreation(arr)
 
+//то что успел с класворка сделать
+// - створити функцію яка приймає три числа та виводить найменьше. (Без Math.min!)
+// function numbers(a, b,c){
+//     if (a<b && a<c){
+//         console.log(a);
+//     }
+//     else if (b<c && b<a){
+//         console.log(b)
+//     }
+//     else {
+//         console.log(c)
+//     }
+// }
+// numbers(500, 400, 600)
+// function numbersMax(first, second,third){
+//     if (first>second && first>third){
+//         console.log(first)
+//     }
+//     else if (second>third && second>first ){
+//         console.log(second)
+//     }
+//     else {
+//         console.log(third)
+//     }
+// }
+// numbersMax(600, 1000,400)
